@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Demo.Core\Demo.Core.csproj" />
+    <ProjectReference Include="..\Demo.Nothwind.DataAccess\Demo.Nothwind.DataAccess.csproj" />
+    <ProjectReference Include="..\Demo.Nothwind.Entities\Demo.Nothwind.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

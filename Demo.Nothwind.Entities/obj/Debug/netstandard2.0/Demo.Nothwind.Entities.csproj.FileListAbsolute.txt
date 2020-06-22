@@ -1,0 +1,12 @@
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.Entities\bin\Debug\netstandard2.0\Demo.Nothwind.Entities.deps.json
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.Entities\bin\Debug\netstandard2.0\Demo.Nothwind.Entities.dll
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.Entities\bin\Debug\netstandard2.0\Demo.Nothwind.Entities.pdb
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.Entities\bin\Debug\netstandard2.0\Demo.Core.dll
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.Entities\bin\Debug\netstandard2.0\Demo.Core.pdb
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.Entities\obj\Debug\netstandard2.0\Demo.Nothwind.Entities.csprojAssemblyReference.cache
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.Entities\obj\Debug\netstandard2.0\Demo.Nothwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.Entities\obj\Debug\netstandard2.0\Demo.Nothwind.Entities.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.Entities\obj\Debug\netstandard2.0\Demo.Nothwind.Entities.AssemblyInfo.cs
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.Entities\obj\Debug\netstandard2.0\Demo.Nothwind.Entities.csproj.CopyComplete
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.Entities\obj\Debug\netstandard2.0\Demo.Nothwind.Entities.dll
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.Entities\obj\Debug\netstandard2.0\Demo.Nothwind.Entities.pdb

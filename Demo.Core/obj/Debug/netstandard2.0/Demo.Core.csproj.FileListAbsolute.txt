@@ -1,0 +1,9 @@
+C:\Users\hakan\source\repos\Calismalar\Demo.Core\bin\Debug\netstandard2.0\Demo.Core.deps.json
+C:\Users\hakan\source\repos\Calismalar\Demo.Core\bin\Debug\netstandard2.0\Demo.Core.dll
+C:\Users\hakan\source\repos\Calismalar\Demo.Core\obj\Debug\netstandard2.0\Demo.Core.csprojAssemblyReference.cache
+C:\Users\hakan\source\repos\Calismalar\Demo.Core\obj\Debug\netstandard2.0\Demo.Core.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\Calismalar\Demo.Core\obj\Debug\netstandard2.0\Demo.Core.AssemblyInfo.cs
+C:\Users\hakan\source\repos\Calismalar\Demo.Core\bin\Debug\netstandard2.0\Demo.Core.pdb
+C:\Users\hakan\source\repos\Calismalar\Demo.Core\obj\Debug\netstandard2.0\Demo.Core.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Calismalar\Demo.Core\obj\Debug\netstandard2.0\Demo.Core.dll
+C:\Users\hakan\source\repos\Calismalar\Demo.Core\obj\Debug\netstandard2.0\Demo.Core.pdb

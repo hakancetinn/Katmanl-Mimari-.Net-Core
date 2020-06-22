@@ -1,0 +1,16 @@
+C:\Users\hakan\source\repos\Calismalar\Demo.Northwind.Business\bin\Debug\netstandard2.0\Demo.Northwind.Business.deps.json
+C:\Users\hakan\source\repos\Calismalar\Demo.Northwind.Business\bin\Debug\netstandard2.0\Demo.Northwind.Business.dll
+C:\Users\hakan\source\repos\Calismalar\Demo.Northwind.Business\bin\Debug\netstandard2.0\Demo.Northwind.Business.pdb
+C:\Users\hakan\source\repos\Calismalar\Demo.Northwind.Business\obj\Debug\netstandard2.0\Demo.Northwind.Business.csprojAssemblyReference.cache
+C:\Users\hakan\source\repos\Calismalar\Demo.Northwind.Business\obj\Debug\netstandard2.0\Demo.Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Calismalar\Demo.Northwind.Business\obj\Debug\netstandard2.0\Demo.Northwind.Business.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\Calismalar\Demo.Northwind.Business\obj\Debug\netstandard2.0\Demo.Northwind.Business.AssemblyInfo.cs
+C:\Users\hakan\source\repos\Calismalar\Demo.Northwind.Business\obj\Debug\netstandard2.0\Demo.Northwind.Business.dll
+C:\Users\hakan\source\repos\Calismalar\Demo.Northwind.Business\obj\Debug\netstandard2.0\Demo.Northwind.Business.pdb
+C:\Users\hakan\source\repos\Calismalar\Demo.Northwind.Business\bin\Debug\netstandard2.0\Demo.Core.dll
+C:\Users\hakan\source\repos\Calismalar\Demo.Northwind.Business\bin\Debug\netstandard2.0\Demo.Nothwind.DataAccess.dll
+C:\Users\hakan\source\repos\Calismalar\Demo.Northwind.Business\bin\Debug\netstandard2.0\Demo.Nothwind.Entities.dll
+C:\Users\hakan\source\repos\Calismalar\Demo.Northwind.Business\bin\Debug\netstandard2.0\Demo.Core.pdb
+C:\Users\hakan\source\repos\Calismalar\Demo.Northwind.Business\bin\Debug\netstandard2.0\Demo.Nothwind.DataAccess.pdb
+C:\Users\hakan\source\repos\Calismalar\Demo.Northwind.Business\bin\Debug\netstandard2.0\Demo.Nothwind.Entities.pdb
+C:\Users\hakan\source\repos\Calismalar\Demo.Northwind.Business\obj\Debug\netstandard2.0\Demo.Northwind.Business.csproj.CopyComplete

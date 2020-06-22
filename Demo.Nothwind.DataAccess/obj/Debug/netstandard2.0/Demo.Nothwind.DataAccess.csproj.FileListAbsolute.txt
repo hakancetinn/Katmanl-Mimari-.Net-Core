@@ -1,0 +1,14 @@
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.DataAccess\obj\Debug\netstandard2.0\Demo.Nothwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.DataAccess\obj\Debug\netstandard2.0\Demo.Nothwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.DataAccess\obj\Debug\netstandard2.0\Demo.Nothwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.DataAccess\obj\Debug\netstandard2.0\Demo.Nothwind.DataAccess.AssemblyInfo.cs
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.DataAccess\bin\Debug\netstandard2.0\Demo.Nothwind.DataAccess.deps.json
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.DataAccess\bin\Debug\netstandard2.0\Demo.Nothwind.DataAccess.dll
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.DataAccess\bin\Debug\netstandard2.0\Demo.Nothwind.DataAccess.pdb
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.DataAccess\bin\Debug\netstandard2.0\Demo.Core.dll
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.DataAccess\bin\Debug\netstandard2.0\Demo.Nothwind.Entities.dll
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.DataAccess\bin\Debug\netstandard2.0\Demo.Core.pdb
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.DataAccess\bin\Debug\netstandard2.0\Demo.Nothwind.Entities.pdb
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.DataAccess\obj\Debug\netstandard2.0\Demo.Nothwind.DataAccess.csproj.CopyComplete
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.DataAccess\obj\Debug\netstandard2.0\Demo.Nothwind.DataAccess.dll
+C:\Users\hakan\source\repos\Calismalar\Demo.Nothwind.DataAccess\obj\Debug\netstandard2.0\Demo.Nothwind.DataAccess.pdb
